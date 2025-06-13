@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Slope Unblocked</strong>';
+        el.innerHTML = '<strong>Capybara Clicker</strong>';
         el.style.visibility = 'visible';
     });
 });
@@ -50,7 +50,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-XRZK4CGBNS');
+loadGoogleAnalytics('G-K99HZZZX9Y');
 
 
 // Block any script with a source from 'rodesquad.com'
