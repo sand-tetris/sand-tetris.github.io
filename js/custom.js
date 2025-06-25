@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Capybara Clicker</strong>';
+        el.innerHTML = '<strong>Hole io</strong>';
         el.style.visibility = 'visible';
     });
 });
