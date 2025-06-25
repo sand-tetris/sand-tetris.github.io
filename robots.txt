@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://capybaraclicker.gitlab.io/sitemap.xml
+Sitemap:https://holeio-online.github.io/sitemap.xml
