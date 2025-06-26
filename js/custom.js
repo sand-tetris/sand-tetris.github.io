@@ -50,7 +50,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-3LT417D8T9');
+loadGoogleAnalytics('G-JYXT3ZNHH4');
 
 
 // Block any script with a source from 'rodesquad.com'
